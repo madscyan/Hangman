@@ -1,0 +1,2 @@
+# Hangman
+Lame noob code
